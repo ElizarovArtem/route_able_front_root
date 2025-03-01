@@ -31,4 +31,3 @@
 5. Cicd
 6. Module federation, microfrontends
 7. Ратоба с бекэндом, nest, возможно попробовать что-то сделать на python
-
